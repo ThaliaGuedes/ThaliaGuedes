@@ -1,8 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ThaliaGuedes/ThaliaGuedes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ThaliaGuedes&theme=radical&mode=weekly" />
@@ -26,10 +22,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-
-#### Studying in this moment:
-
-![Java]image:https://img.shields.io/open-vsx/dt/:namespace/:extension[Open VSX Downloads]
 
 
 
